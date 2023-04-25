@@ -1,0 +1,7 @@
+
+monitoring:
+  enabled: true
+  type: bentoml_plugins.arize.ArizeMonitor
+  options:
+    space_key: a3854d6
+    api_key: be00f3850d11bb3ea12

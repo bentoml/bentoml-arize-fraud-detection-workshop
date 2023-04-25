@@ -1,0 +1,6 @@
+service: "service:svc"
+python:
+  packages:
+    - xgboost
+    - scikit-learn
+    - bentoml-plugins-arize
